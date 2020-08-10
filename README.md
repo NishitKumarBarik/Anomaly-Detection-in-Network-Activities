@@ -1,1 +1,2 @@
 # Anomaly Detection in Network Activities
+The proposed model sniffs network packets in real time and collects the number of network packets with respect to each protocol like TCP, IP, DNS etc. The model displays this data using live bar graphs, pie charts and time plots and uses this information to detect a DOS or DDOS attack. The research paper related to the above project has been submitted to IEEE and will be published shortly.
